@@ -21,21 +21,23 @@ This project adds **full i18n support to the Hermes Desktop app** with 15 langua
 
 | Language | Code | Coverage |
 |----------|------|----------|
-| English (source) | en | 861/861 (100%) |
-| العربية (ar) | ar | 836/861 (97.1%) |
-| Deutsch (de) | de | 812/861 (94.3%) |
-| Español (es) | es | 826/861 (95.9%) |
-| Français (fr) | fr | 815/861 (94.7%) |
-| हिन्दी (hi) | hi | 835/861 (97.0%) |
-| Italiano (it) | it | 824/861 (95.7%) |
-| 日本語 (ja) | ja | 839/861 (97.4%) |
-| 한국어 (ko) | ko | 839/861 (97.4%) |
-| Português (BR) (pt-BR) | pt-BR | 822/861 (95.5%) |
-| Русский (ru) | ru | 835/861 (97.0%) |
-| ภาษาไทย (th) | th | 835/861 (97.0%) |
-| Tiếng Việt (vi) | vi | 835/861 (97.0%) |
-| 简体中文 (zh-CN) | zh-CN | 845/861 (98.1%) |
-| 繁體中文 (zh-Hant) | zh-Hant | 845/861 (98.1%) |
+| 语言 |
+|------|
+| English |
+| العربية |
+| Deutsch |
+| Español |
+| Français |
+| हिन्दी |
+| Italiano |
+| 日本語 |
+| 한국어 |
+| Português (BR) |
+| Русский |
+| ภาษาไทย |
+| Tiếng Việt |
+| 简体中文 |
+| 繁體中文 |
 
 ### Features
 
