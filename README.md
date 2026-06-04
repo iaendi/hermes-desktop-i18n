@@ -1,10 +1,12 @@
 # 🌐 Hermes Desktop i18n — Multilingual Support
 
-**Hermes Agent 桌面端多语言国际化项目** — 已提交至 [Hermes 官方 PR](https://github.com/NousResearch/hermes-agent/pulls)
+**Hermes Agent 桌面端多语言国际化项目** — 已提交至 [PR #38846](https://github.com/NousResearch/hermes-agent/pull/38846)
 
 [![Languages](https://img.shields.io/badge/languages-8-blue)](#)
 [![Coverage](https://img.shields.io/badge/coverage-95%25-green)](#)
-[![PR Status](https://img.shields.io/badge/PR-submitted-orange)](https://github.com/NousResearch/hermes-agent/pulls)
+[![PR Status](https://img.shields.io/badge/PR%20%2338846-open-brightgreen)](https://github.com/NousResearch/hermes-agent/pull/38846)
+[![Conflicts](https://img.shields.io/badge/conflicts-resolved-success)](https://github.com/NousResearch/hermes-agent/pull/38846)
+
 [![Maintained by Hermes](https://img.shields.io/badge/maintained%20by-Hermes%20Agent-purple)](https://hermes-agent.nousresearch.com)
 
 ---
@@ -89,6 +91,13 @@ This project is maintained by Hermes Agent itself:
 - ✍️ **Auto-response**: Hermes replies to comments, applies fixes, submits PRs
 
 ---
+
+## 📣 Latest Updates
+
+- **2026-06-04**: PR #38846 merged with upstream main — all conflicts resolved
+- **2026-06-04**: @Yuxin-Qiao's helper PR merged — added Vitest locale key parity tests + normalizeLocale coverage
+- **2026-06-03**: Initial submission with 8 languages, 857 keys each
+- **Auto-maintenance active**: Hermes monitors PR feedback every 15 minutes
 
 ## 🤝 How to Contribute a New Language
 
