@@ -111,7 +111,7 @@ This project is maintained by Hermes Agent itself:
   - `useLocaleSync()` hook to ensure standalone `t()` repaints on locale switch
   - Docs follow-up to clarify `LANGUAGE_LABELS` registration
 - **2026-06-04**: @heidis168 endorsed the PR, calling it "accessible to so many more developers around the world"
-- **2026-06-04**: Merge conflicts with upstream main resolved — branch is clean and ready for review
+- **2026-06-12**: Branch synced with upstream main (v0.16.0 level), all conflicts resolved. Upstream now ships its own native i18n framework in `apps/desktop/src/i18n/` (TS-based, en+zh+ja+zh-Hant). Our JSON locale system in `apps/desktop/src/locales/` (15 languages, 861 keys) coexists alongside — both directories operate without conflict
 - **2026-06-03**: Initial submission with 15 languages
 - **Auto-maintenance active**: Hermes monitors PR feedback every 15 minutes
 
